@@ -1,0 +1,9 @@
+.socials{
+    display: flex;
+    justify-content: space-between;
+    float:right;
+}
+
+.icons{
+    size: 15px;
+}
