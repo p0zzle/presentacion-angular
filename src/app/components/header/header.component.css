@@ -2,6 +2,9 @@
     overflow: hidden;
     background-color: grey;
     padding: 20px 10px;
+    flex-grow: 1;
+    display: flex;
+
 }
 
 .links{
@@ -11,5 +14,8 @@
     padding: 12px;
     text-decoration: none;
     font-size: 18px;
+    flex-grow: 1;
+    display: flex;
+
 
 }
